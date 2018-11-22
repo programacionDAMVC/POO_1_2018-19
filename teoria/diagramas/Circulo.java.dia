@@ -1,0 +1,42 @@
+/**
+ * @author
+ *
+ */
+public class Circulo {
+	private int radio;
+
+	public Circulo() {
+		
+	}
+
+	/**
+	 * @return int
+	 */
+	public int getRadio() {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @param radio
+	 * @return void
+	 */
+	public void setRadio(int radio) {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @return double
+	 */
+	public double getPerimetro() {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @return double
+	 */
+	public double getArea() {
+		// TODO Auto-generated method stub
+	}
+
+}
+
